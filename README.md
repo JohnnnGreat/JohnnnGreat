@@ -8,3 +8,7 @@ I'm a frontend developer with 4 years of experience, specializing in building mo
     Design: Figma
     Version Control: Git, GitHub
     Other Tools: VSCode, npm, yarn
+
+## Github Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohnnnGreat&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnnGreat&theme=dark&show_icons=true&hide_border=true&layout=compact)
